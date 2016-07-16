@@ -1,0 +1,28 @@
+name: Spain Blog
+favicon: null
+layout_spectrum: 0.10852072108536959
+typography_spectrum: 0.8261121697723866
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8082910079974681
+  lightness: 0.6702668636571616
+  saturation: 0.9663351594936103
+  rhythmicContrast: 0.0034612647723406553
+purpose: []
